@@ -1,8 +1,8 @@
-#Project Overview
+# Project Overview
 
 The focus of the project was to retrieve the same results for each stock using a similar code that would do it in a more efficient manner.
 
-#Results
+# Results
 
 We can see that stock performance declined from 2017 to 2018 on the majority of stocks, with the exception of two stocks that had an increase in value : RUN and TERP
 
@@ -11,8 +11,9 @@ We can see that stock performance declined from 2017 to 2018 on the majority of 
 
 Here we can see the increase and decline metioned before, we can also see the performance of the refactored code. The original code ran in an average of 0.48 seconds, this is much more efficient at 0.17 seconds
 
-#Summary
+# Summary
 
-##Advantages and Disacvantages of Refactoring Code
+## Advantages and Disacvantages of Refactoring Code
 Advantage wise, we retructure the code witout losing the original output, and with this we achieve a better performance. However, thic allows for the introduction of new, unwanted, bugs into the code.
 The refactoring of this specific code was benefitial to the project because the performance increased. 
+
